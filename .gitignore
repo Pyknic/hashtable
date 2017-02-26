@@ -1,5 +1,6 @@
 # Compiled files
 target/**
+dist/**
 *.class
 
 # Mobile Tools for Java (J2ME)
